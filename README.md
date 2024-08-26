@@ -18,8 +18,6 @@ I'm a passionate and driven software developer currently pursuing my second year
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
@@ -36,7 +34,6 @@ I'm a passionate and driven software developer currently pursuing my second year
 ### 🌐 Connect with Me
 
 - **LinkedIn**: [Siddhant Tiwari](https://www.linkedin.com/in/siddhant-tiwari-89522b277/)
-- **GitHub**: [siddhu828](https://github.com/siddhu828)
 
 ### 🎯 Goals
 
