@@ -34,6 +34,7 @@ I'm a passionate and driven software developer currently pursuing my second year
 ### 🌐 Connect with Me
 
 - **LinkedIn**: [Siddhant Tiwari](https://www.linkedin.com/in/siddhant-tiwari-89522b277/)
+- **Figma Design**: [DDQ 2024-25](https://www.figma.com/design/3UVfZg6eRn6VQp98mbeFh7/DDQ-2024-25?node-id=0-1&t=HlW6a57GL8AwpA7K-1)
 
 ### 🎯 Goals
 
