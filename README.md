@@ -12,16 +12,26 @@ I'm a passionate and driven software developer currently pursuing my second year
 
 ### 🛠️ Technologies & Tools
 
-- **Languages**: C++, Python, JavaScript
-- **Tools**: Git, Figma, Visual Studio Code
-- **Frameworks**: React, Node.js, Flask
-- **AI/ML**: TensorFlow, OpenAI APIs
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
 
 ### 📊 GitHub Stats
 
-![Siddhant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddhu828&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhu828&show_icons=true&theme=radical" alt="Siddhant's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhu828&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhu828&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ### 🌐 Connect with Me
 
