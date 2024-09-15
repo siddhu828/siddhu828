@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-I'm a budding software developer and AI enthusiast, currently in my second year at the Army Institute of Technology. My focus is on leveraging technology to solve complex problems, particularly in the domains of AI, machine learning, and software development. I have a knack for diving deep into challenges, whether it’s through developing innovative applications or refining my skills in programming languages like C++ and Python.
+I'm a budding software developer and AI enthusiast, currently in my second year at the Army Institute of Technology. My focus is on leveraging technology to solve complex problems, particularly in the domains of AI, machine learning and software development. I have a knack for diving deep into challenges, whether it’s through developing innovative applications or refining my skills in programming languages like C++ and Python.
 
 ### 🌐 What I’m Passionate About
 
